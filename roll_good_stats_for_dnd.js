@@ -1,3 +1,5 @@
+// https://chat.openai.com/share/ed99d343-6c59-484b-a0e2-aef605024785
+
 function rollDice() {
   // Roll 4 six-sided dice
   const diceRolls = Array.from({ length: 4 }, () => Math.floor(Math.random() * 6) + 1);
